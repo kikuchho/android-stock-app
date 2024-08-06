@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mainButtonS">add stock</string>
+    <string name="symbol">symbol</string>
+    <string name="price">price</string>
+    <string name="addAlarm">add alarm</string>
+    <string name="AAPL">0</string>
+    <string name="META">0</string>
+    <string name="NVDA">0</string>
+    <string name="etSymbol">AAPL</string>
+</resources>
